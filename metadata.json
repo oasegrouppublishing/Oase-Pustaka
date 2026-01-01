@@ -1,0 +1,7 @@
+{
+  "name": "Oase Pustaka Cover AI",
+  "description": "A professional AI-powered book cover design tool for Oase Pustaka publishing company, featuring multiple ratios, styles, and automated prompt engineering.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
